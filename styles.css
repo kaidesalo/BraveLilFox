@@ -26,6 +26,3 @@
 
 /* Direct contact form */
 .resume-link{background:none;border:0;border-bottom:1px solid var(--ink);color:var(--ink);text-align:left}.contact-honeypot{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}.contact-button:disabled{opacity:.55;cursor:wait}.contact-button .send-label{font-size:16px;line-height:1.6}.form-status:not(:empty){padding:12px 0;color:#b33e25;line-height:1.7}.contact-success:focus,#contact-success:focus{outline:none}
-
-/* Project card focus (card is a focusable role="button") */
-.project-open{cursor:pointer}.project-open:focus-visible{outline:2px solid var(--accent);outline-offset:6px}
